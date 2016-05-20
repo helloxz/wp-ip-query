@@ -58,3 +58,5 @@ $num = 'abc'.rand(1000,9999);
 
 ### 最后的效果
 ![](https://nzzv57zo9.qnssl.com/wp-content/uploads/2016/05/ip_query.jpg)
+
+详细说明可以参考我的博客：<https://www.xiaoz.me/archives/6987>
